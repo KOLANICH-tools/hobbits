@@ -55,7 +55,7 @@
     "glob": "^7.1.6",
     "husky": "^4.2.4",
     "node-7z": "^2.1.1",
-    "semantic-release": "^17.0.4",
+    "semantic-release": "^17.2.3",
     "yargs": "^15.3.1"
   }
 }
